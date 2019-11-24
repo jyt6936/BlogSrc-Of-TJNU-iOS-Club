@@ -26,7 +26,9 @@ url_video: ""
 
 天津师范大学的 iOS Club 承办于2017年9月，拥有良好的教育资源与硬件资源。
 ![MSyqQU.jpg](https://s2.ax1x.com/2019/11/05/MSyqQU.jpg)
-2017开学期间招募并选拔了积极踊跃的学生团体并初次确定 Core Member。我们以项目为核心进行学习，并由多位开发者举办 Session 普及开发方面的知识，并定期组织优秀学生进行自身的开发经验分享。
+
+
+
 ![MS6Vwd.jpg](https://s2.ax1x.com/2019/11/05/MS6Vwd.jpg)
 ![MS6EeH.jpg](https://s2.ax1x.com/2019/11/05/MS6EeH.jpg)
 在线下，我们也曾与 Apple Store 联系并参与官方组织的编程活动，并正在与 Apple 官方合作，争取将社团打造成能让 Apple 认证 的 官方社团。
